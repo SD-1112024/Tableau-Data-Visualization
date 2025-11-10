@@ -126,9 +126,9 @@ The goal is to analyze business performance and identify high and low profit are
 # 📂 Repository Structure
 
 📦 Tableau-Data-Visualization
-├── COFFEE CHAIN DATASET VISUALIZATION-Sonika D.twbx
-├── TITANIC DATASET VISUALIZATION-Sonika D.twbx
-└── README.md
+-├── COFFEE CHAIN DATASET VISUALIZATION-Sonika D.twbx
+-├── TITANIC DATASET VISUALIZATION-Sonika D.twbx
+-└── README.md
 
 ---
 
