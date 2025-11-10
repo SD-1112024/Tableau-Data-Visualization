@@ -3,7 +3,7 @@
 
 ## 👩‍🎓 Student Details
 **Name:** Sonika D  
-**USN:** ENG23AM0XXX *(replace with your actual USN if applicable)*  
+**USN:** ENG23AM0197  
 **Department:** Artificial Intelligence and Machine Learning (AIML)  
 **Semester:** 5th Semester  
 
@@ -123,6 +123,15 @@ The goal is to analyze business performance and identify high and low profit are
 
 ---
 
+# 📂 Repository Structure
+
+📦 Tableau-Data-Visualization
+├── COFFEE CHAIN DATASET VISUALIZATION-Sonika D.twbx
+├── TITANIC DATASET VISUALIZATION-Sonika D.twbx
+└── README.md
+
+---
+
 # 🛠️ Tools Used
 - **Software:** Tableau Public / Tableau Desktop  
 - **Data Sources:**  
@@ -132,6 +141,8 @@ The goal is to analyze business performance and identify high and low profit are
   - `TITANIC DATASET VISUALIZATION-Sonika D.twbx`  
   - `COFFEE CHAIN DATASET VISUALIZATION-Sonika D.twbx`
 
----
 
-# 📂 Repository Structure
+
+
+
+
