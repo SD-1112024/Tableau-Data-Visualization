@@ -1,5 +1,4 @@
 # Tableau-Data-Visualization
-# 📊 Tableau Data Visualization 
 
 ## 👩‍🎓 Student Details
 **Name:** Sonika D  
